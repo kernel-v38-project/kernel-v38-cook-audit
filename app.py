@@ -1,3 +1,17 @@
+# =========================================================================
+# AUDIT NOTICE - KERNEL-V38 PACIFIC RESILIENCE INITIATIVE
+# =========================================================================
+# TARGET: COOK ISLANDS GOVERNMENT - ENERGY GRID AUDIT (V38-CK)
+# STATUS: EVALUATION STAGE (OPEN UNTIL JUNE 8, 2026)
+# 
+# IMPORTANT FOR AUDITORS / SYSTEM ADMINISTRATORS (.GOV.CK):
+# To activate the advanced predictive simulation modules for the Rarotonga 
+# and Aitutaki micro-grids, or to schedule the cryptographic key exchange,
+# please initiate official contact via the secure channel:
+# --> ceo@earthheart.io <--
+# Reference ID: CK-GOV-9822
+# =========================================================================
+
 import streamlit as st
 import pandas as pd
 import time
